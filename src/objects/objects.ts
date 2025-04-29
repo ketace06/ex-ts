@@ -26,8 +26,8 @@ export type User2 = {
  */
 export function returnObjects(): [User1, User2] {
   const user1: User1 = {
-    first_name: "",
-    last_name: "",
+    first_name: "toto",
+    last_name: "tutu",
   }
   const user2: User2 = {
     first_name: "",
